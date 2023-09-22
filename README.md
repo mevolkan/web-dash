@@ -10,3 +10,6 @@ yarn dev
 # or
 pnpm dev
 ```
+###Directions
+
+Create a read only api key from uptime robot
